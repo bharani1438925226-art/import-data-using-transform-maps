@@ -1,0 +1,7 @@
+Example project
+
+| Employee ID | Name  | Email                                     | Department | Phone      |
+| ----------- | ----- | ----------------------------------------- | ---------- | ---------- |
+| EMP001      | Arun  | [arun@gmail.com](mailto:arun@gmail.com)   | IT         | 9876543210 |
+| EMP002      | Priya | [priya@gmail.com](mailto:priya@gmail.com) | HR         | 9876543211 |
+| EMP003      | Kavin | [kavin@gmail.com](mailto:kavin@gmail.com) | Finance    | 9876543212 |

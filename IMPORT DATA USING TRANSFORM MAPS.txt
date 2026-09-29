@@ -1,0 +1,25 @@
+IMPORT DATA USING TRANSFORM MAPS
+             |
+             ↓
+        Excel / CSV
+             |
+             ↓
+       Data Source
+             |
+             ↓
+        Import Set
+     (Staging Table)
+             |
+             ↓
+       Transform Map
+             |
+       ┌─────┴─────┐
+       ↓           ↓
+ Field Mapping   Transform
+       ↓           ↓
+       └─────┬─────┘
+             ↓
+       Target Table
+             |
+             ↓
+       Imported Records
